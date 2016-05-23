@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/moqui/moqui-framework.git
+	branch = master
+	commit = badb498cb14fb632d4c79e9602e0d6eba30cda95
+	parent = 6d88e31c46a083cd5b80c5cd95486c1e9d7026cb
+	cmdver = 0.3.0
